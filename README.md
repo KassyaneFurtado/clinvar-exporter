@@ -26,14 +26,17 @@ A classificação dessas variantes, baseada em sua patogenicidade, é fundamenta
 
 2. **Crie um ambiente virtual e ative-o:**
 
-```bash
+
+    ```bash
    python3 -m venv venv
    source venv/bin/activate  # No Windows: venv\Scripts\activate
 
 3. **Instale as dependências:**
-```bash
+
+    ```bash
     pip install -r requirements.txt
 
 4. **Execute o script principal:**
-```bash
-python main.py
+
+    ```bash
+    python main.py
